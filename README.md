@@ -48,7 +48,8 @@
 下载
 ---
 
-* [下载软件最新版已编译版本](https://raw.githubusercontent.com/imengyu/JiYuTrainer/master/Release/JiYuTrainer.exe) 
+* [下载软件最新版已编译版本](https://luo7ianyi.lanzout.com/b01wrmimd) 
+* 密码:JiYu
 
 提示：**由于本软件会对极域电子教室进行必要的操作（远程注入、替换模块），某些杀毒软件可能会报毒，您可能需要关闭杀毒软件或添加白名单**。
 
@@ -105,7 +106,7 @@ sc delete TDFileFilter
 * 系统版本要求: Win7/Win8/Win8.1/Win10
 
 > 抱歉：因为最近一次做了较大改动，一些功能XP适配不了了，所以此后JiYuTrainer都不再支持WindowXP了，
-如果您要在WindowXP上使用JiYuTrainer，只能使用[旧版](https://raw.githubusercontent.com/imengyu/JiYuTrainer/master/Release/JiYuTrainerOldForWinXP.exe)。
+如果您要在WindowXP上使用JiYuTrainer，只能使用旧版。
 
 编译以及生成
 ---
